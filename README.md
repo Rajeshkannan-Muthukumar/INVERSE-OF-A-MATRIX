@@ -19,7 +19,7 @@ a=np.array([[2,1,1],[1,1,1,],[1,-1,2]])
 values=np.linalg.inv(a)
 print(values)
 ## Output:
-![output1](IOTM.PNG)
+![output1](IOTM.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
